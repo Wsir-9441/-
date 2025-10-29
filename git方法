@@ -4,4 +4,5 @@ https://zhuanlan.zhihu.com/p/1901994562446157814
 如果你已经有公钥（id_rsa.pub），按以下步骤将它添加到 GitHub：
 
 复制公钥内容：
+cat ~/.ssh/id_rsa.pub
 
