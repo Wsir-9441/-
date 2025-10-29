@@ -5,4 +5,4 @@ https://zhuanlan.zhihu.com/p/1901994562446157814
 
 复制公钥内容：
 cat ~/.ssh/id_rsa.pub
-
+git remote -v
