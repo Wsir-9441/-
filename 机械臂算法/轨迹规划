@@ -1,0 +1,12 @@
+#mujoco仿真操作
+https://blog.csdn.net/weixin_38428827/article/details/146716987
+XDG_SESSION_TYPE=x11 GLFW_PLATFORM=x11 python test/LitchiCheng_learn/Pinocchio_Mujoco.py
+
+#阻尼最小二乘法（DLS）
+https://www.cnblogs.com/zsw2024/p/18331928
+
+#机械臂末端规划（轴角法）
+https://blog.csdn.net/HITORANGE/article/details/122015831
+
+#ros1工作空间创建
+https://blog.csdn.net/qq_45152498/article/details/109880358
