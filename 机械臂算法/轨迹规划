@@ -1,5 +1,7 @@
 #mujoco仿真操作
 https://blog.csdn.net/weixin_38428827/article/details/146716987
+#urdf 转 xml
+https://blog.csdn.net/qq_43309940/article/details/128292151
 XDG_SESSION_TYPE=x11 GLFW_PLATFORM=x11 python test/LitchiCheng_learn/Pinocchio_Mujoco.py
 
 #阻尼最小二乘法（DLS）
